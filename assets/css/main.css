@@ -38,19 +38,37 @@ header{
 	background-position: center;
 	padding: 0;
 	color: #FFF;
+	text-align: center;
 }
 .title{
 	font-size: 7em;
 	font-weight: 300;
-	text-align: center;
 	padding-top: 110px;
 	background-color: rgba(0, 0, 0, 0.4);
 }
 .subtitle{
 	font-size: 4em;
 	font-weight: 300;
-	text-align: center;
 	padding-top: 30px;
 	padding-bottom: 120px;
 	background-color: rgba(0, 0, 0, 0.4);
+}
+.textAndImg{
+	text-align: center;
+	padding-top: 5%;
+}
+.imgRock{
+    width: 50%;
+    border-radius: 100%;
+}
+h2, .text{
+	text-align: left;
+	color: #383B43;
+	padding-left: 30%;
+	padding-right: 20%
+}
+h2{
+	font-size: 2.5em;
+    font-weight: 300;
+	padding-top: 15%
 }
