@@ -72,3 +72,11 @@ h2{
     font-weight: 300;
 	padding-top: 15%
 }
+footer{
+	background-color: #383B43;
+	color: #FFF;
+	font-size: 0.9em;
+	text-align: center;
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
